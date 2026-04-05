@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+button,
+a {
+  cursor: pointer;
+}
+
+#root {
+  width: 100%;
+}
+
+input, button, textarea {
+  font-family: inherit;
+}
+
+html,body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
